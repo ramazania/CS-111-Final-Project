@@ -1,12 +1,12 @@
 #CS 201 Final Project: Connect4 Game
 #Project Submitters: Doug and Ali 
 
-from graphics import *
-#Creates a welcome screen
-win = GraphWin("My fancy window", 800, 800)
-message = Text(Point(400,300), "Welcome to the Connect4 Game!")
-message.draw(win)
-message.setSize(24)
+# from graphics import *
+# #Creates a welcome screen
+# win = GraphWin("My fancy window", 800, 800)
+# message = Text(Point(400,300), "Welcome to the Connect4 Game!")
+# message.draw(win)
+# message.setSize(24)
 
 
 import random
